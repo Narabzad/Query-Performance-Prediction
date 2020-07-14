@@ -1,7 +1,7 @@
 # Query-Performance-Prediction
 Results of state-of-the-art pre-retrieval and post-retrieval QPP methods on TREC datasets
 
-You can find results of state-of-the-art query performance prediction methods on well-known TREC datasets such as Robust04, GOV2, ClueWeb09 and  ClueWeb12.
+You can find results of state-of-the-art query performance prediction methods in predicting Query-Likelihood (QL) retrieval model  on well-known TREC datasets such as Robust04, GOV2, ClueWeb09 and  ClueWeb12 and their associated topics.
 
 Aggregating functions such as {avg,min,max,sum} has been utilized on query terms to calculate the QPP for the whole query.
 
