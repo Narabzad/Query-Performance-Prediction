@@ -16,11 +16,11 @@ Details of each of the methods can be found in the following references:
 
 - **Post-retrieval methods :**
   - WIG : [Query performance prediction in web search environments](https://dl.acm.org/doi/10.1145/1277741.1277835)
-  - Clarity
+  - Clarity [Predicting query performance] (https://dl.acm.org/doi/10.1145/564376.564429)
   - QF [Query performance prediction in web search environments](https://dl.acm.org/doi/10.1145/1277741.1277835)
-  - ISD
-  - SD
-  - SMV
-  - UEF
+  - ISD [Improved queryperformance prediction using standard deviation](https://dl.acm.org/doi/10.1145/2009916.2010063)
+  - SD [Standard Deviation as a Query Hardness Estimator](https://link.springer.com/chapter/10.1007/978-3-642-16321-0_21)
+  - SMV [Query Performance Prediction By Considering Score Magnitude and Variance Together](https://dl.acm.org/doi/abs/10.1145/2661829.2661906)
+  - UEF[Using statistical decision theory and relevance models for query-performance prediction](https://dl.acm.org/doi/10.1145/1835449.1835494)
 
 Please do not hesitate to contact if you have any questions : narabzad@ryerson.ca
