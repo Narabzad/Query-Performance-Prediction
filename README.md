@@ -5,6 +5,10 @@ You can find results of state-of-the-art query performance prediction methods on
 
 Details of each of the methods can be found in the following references: 
 
+-Pre-retrieval methods :
+
+-Post-retrieval methods : 
+
 
 The results has been used in the following papers:
 
