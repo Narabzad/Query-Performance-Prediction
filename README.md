@@ -8,16 +8,16 @@ Aggregating functions such as {avg,min,max,sum} has been utilized on query terms
 Details of each of the methods can be found in the following references: 
 
 - **Pre-retrieval methods :**
-  - SCS
+  - SCS : [GitHub](http://github.com)
   - SCQ
   - IDF
   - PMI
   - VAR
 
 - **Post-retrieval methods :**
-  - WIG
+  - WIG : [Query performance prediction in web search environments](https://dl.acm.org/doi/10.1145/1277741.1277835)
   - Clarity
-  - QF
+  - QF [Query performance prediction in web search environments](https://dl.acm.org/doi/10.1145/1277741.1277835)
   - ISD
   - SD
   - SMV
