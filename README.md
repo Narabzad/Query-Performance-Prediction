@@ -1,5 +1,7 @@
 # Query-Performance-Prediction
-Results of state-of-the-art pre-retrieval and post-retrieval QPP methods on TREC datasets
+State-of-the-art pre-retrieval and post-retrieval QPP methods on TREC datasets
+
+You can find the implementation of pre-retrieval QPPs including avgIDf, maxIDF, SCS, avgICTF, avgSCQ, maxSCQ and sumSCQ. You need to set  the indexpath, number of documents in the collection and number of all terms in the collection in pre-retrievals.py. 
 
 You can find results of state-of-the-art query performance prediction methods in predicting Query-Likelihood (QL) retrieval model  on well-known TREC datasets such as Robust04, GOV2, ClueWeb09 and  ClueWeb12 and their associated topics.
 
